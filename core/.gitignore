@@ -1,0 +1,10 @@
+# C artifacts
+*.o
+*.a
+/src/main/c/lua/lua
+/src/main/c/lua/luac
+
+# Wasm
+/src/main/c/wasi-sdk
+*.wasm
+*.wat

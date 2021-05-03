@@ -1,0 +1,10 @@
+# Java
+*.class
+/build
+/core/build
+/.gradle
+
+# Editor
+/.vscode
+/.idea
+
